@@ -25,10 +25,15 @@ Die KI kann 200 tokens verstehen!</p>
 <div style="color: white; background-color: black;">
 <p>
 Hi
+  <br>
 Hallo
+  <br>
 wie geht es dir?
+  <br>
 was kannst du?
+  <br>
 dumme antwort
+  <br>
 willst du etwas wissen?
   
 </p>
