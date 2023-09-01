@@ -1,0 +1,3 @@
+PfaLAA steht für "Pre-Frage-antwort-Löwolf-Alle-Antworten".
+
+Die KI kann 200 tokens verstehen!
